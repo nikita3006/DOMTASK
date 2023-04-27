@@ -1,0 +1,54 @@
+h1
+        {
+            color: rgb(10, 10, 10);
+            text-align:center ;
+        }   
+      
+       form
+       {
+        text-align: center;
+       
+       }
+       body{
+        
+    background-color: lightgrey;
+
+       }
+
+       li
+       {
+        list-style: none;
+           }
+      
+           ul li
+           {
+            padding: 5px;
+            background: #f4f4f4;
+            margin: 5px;
+           }
+      
+
+  
+form .btn
+{
+    
+    padding: 2px;
+    box-sizing: content-box;
+    border-block-color: currentcolor;
+    border-width: 2px;
+    border-left-color: currentColor;
+    border-right-color: currentcolor;
+    background-color: aquamarine;
+
+}
+
+
+ul
+       {
+        text-align: center;
+        font-size: medium;
+      
+       }
+
+
+
